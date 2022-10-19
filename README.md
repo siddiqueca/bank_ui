@@ -1,3 +1,4 @@
+<img width="1440" alt="Screenshot 2022-10-19 at 10 57 23 PM" src="https://user-images.githubusercontent.com/108931738/196763178-0b8e909a-8b7f-48a8-a37a-e130de5c81a2.png">
 # bank_ui
 
 A new Flutter project.
